@@ -1,0 +1,54 @@
+[26.10.2020 18:26:22]
+Hook Started... timer started
+
+[26.10.2020 18:32:57]
+Hook Started... timer started
+
+[26.10.2020 18:33:27]
+Mail was not sent. error code: -1
+
+[26.10.2020 18:33:57]
+Mail was not sent. error code: -1
+
+[26.10.2020 18:34:27]
+Mail was not sent. error code: -1
+
+[26.10.2020 18:35:19]
+Hook Started... timer started
+
+[26.10.2020 18:35:57]
+Mail was not sent. error code: 259
+
+[26.10.2020 18:35:57]
+<From SendMail> Return Code: 0
+
+[26.10.2020 22:11:40]
+Hook Started... timer started
+
+[26.10.2020 22:12:18]
+Mail was not sent. error code: 259
+
+[26.10.2020 22:12:18]
+<From SendMail> Return Code: 0
+
+[27.10.2020 11:47:29]
+Hook Started... timer started
+
+[27.10.2020 11:47:53]
+Hook Started... timer started
+
+[27.10.2020 11:48:28]
+<From SendMail> Return Code: 7
+
+[27.10.2020 11:58:18]
+Hook Started... timer started
+
+[27.10.2020 11:58:52]
+<From SendMail> Return Code: 7
+
+[27.10.2020 12:12:42]
+Hook Started... timer started
+
+[27.10.2020 12:13:16]
+<From SendMail> Return Code: 7
+
