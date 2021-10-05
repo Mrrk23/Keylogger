@@ -11,3 +11,8 @@ and can be used on Windows 7,8,10 machines. It won't work in windows xp and vist
 To compile it in CodeBlocks, be sure to enable C++11 standards and the -mwindows flag.  Another note: if you're using gmail to test, 
 make sure the "Access for less secure apps" feature is enabled.  
 
+
+<img src="https://github.com/Mrrk23/Keylogger/blob/main/ss/01.JPG"></img>
+
+<img src="https://github.com/Mrrk23/Keylogger/blob/main/ss/02.JPG"></img>
+
